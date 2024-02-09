@@ -1,0 +1,28 @@
+/**
+Theme Name: purepress_wl
+Author: Ahsan Raees 
+Description: This theme is multi purpose, well optimize, fast and lightweight, Plus SEO Friendly built with the latest web technologies. This theme speacially built for purepress WL.
+Template: purepress-theme
+Text Domain: purepress_wl
+*/
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    border-radius: 20px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #909090;
+    border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #3e3e3e;
+}
